@@ -1,0 +1,13 @@
+name	value	penalty	color	symbol	info
+1	1	0	BLUE	49	ASCII
+2	2	0	BLUE	50	ASCII
+3	3	0	BLUE	51	ASCII
+4	4	0	BLUE	52	ASCII
+5	5	0	BLUE	53	ASCII
+6	6	0	BLUE	54	ASCII
+7	7	0	BLUE	55	ASCII
+8	8	0	BLUE	56	ASCII
+9	9	0	BLUE	57	ASCII
++2	20	0	BLUE	Action	Plus2
++4	30	0	BLUE	Action	Plus4
+RW	10	0	BLUE	Action	Richtungswechsel

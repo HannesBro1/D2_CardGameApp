@@ -1,0 +1,5 @@
+name;value;penalty;color;symbol
+1;1;1;BLUE;Number
+2;2;2;BLUE;Number
+3;3;3;BLUE;Number
+4;4;4;BLUE;Number

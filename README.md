@@ -1,14 +1,79 @@
-# D2_CardGameApp
+![Logo](logo.jpg)
 
-Playing Cards is FUN
+# Exercise project "CardGameApp"
+Playing Cards is FUN!
 
-Felix was here!
+## Targets
+Create a small project in Java using OOP concepts and prozedures
+- Prozedures
+  - if/else
+  - case
+  - while/for
+  - early return
+- OOP
+  - Encapsulation
+  - Inheritance
+  - Abstraction
+  - Interfaces
+  - Types
+    - Primitive Types
+    - Complex Types
+  - Classes
+  - Constructors
+  - Setters & Getters
+  - Modifiers
+    - public
+    - private 
+    - protected
+    - abstract
+    - final
+- Return value Type
+- Java STD Classes:
+- Scanner (Terminal input)
+- StringBuffer
+- File I/O
+- Date
+- Exceptions
+- TooManyPlayers
+- NotEnoughPlayers
+- PlayerNotOldEnough
+- NoMoreCardsOnStack
 
-**Das ist eine Überschrift und bold**
 
-Überschrift 1
-Überschrift 2
-Überschrift 3
+- Logging via java.util.logging.*
+- Testing via Framework "???"
+- Write a project documentation in MarkDown
+- Write a code documentation with javadoc
 
-*das ist Tye Italic (Ctrl+I)*
+## NOT targets
+- Developing a (G)UI
+- Developing a Gaming AI to play against
+- Develop a production ready application
 
+
+## CardGameApp
+Base idea of this project is to create an extensible Base of (abstract) Types, to create and play several different Card Games.
+Each Game implements it's own set of rules how
+
+Possible Games are: ([List of Card Games by Amount of Cards](https://de.wikipedia.org/wiki/Liste_von_Kartenspielen_nach_Kartenanzahl_geordnet))
+- BlackJack (17+4)
+- Schnapsen (Cards could be "Französisch" or "DoppelDeutsch")
+  - Schnapsen
+  - BauernSchnapsen
+  - TalonSchnapsen
+- Uno
+- Rommé
+- etc
+
+
+### Diagram
+<!-- insert image here -->
+![Diagram](model.png)
+
+### Card
+Is an abstract class to represent a gaming card in a Deck of Cards.
+
+### Deck
+### Player
+### Game
+### Exceptions

@@ -35,6 +35,9 @@ public class App
         System.out.println("\n");
 
         log.info ("Starten Logging mit 'JUL' (Java Util Logging)");
+
+
+        
         // create a game
         Game game = new Game();
 

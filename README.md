@@ -6,7 +6,7 @@ Playing Cards is FUN!
 ## Team
 - Eric Langer (Docs for Code)
 - Felix Ossmann (Testing)
-- Hannes Brottrager (Logging/Data)
+- Hannes Brottrager (Console/Logging/Data/Exception)
 - Markus Hilbert (Lead/Architecture)
 
 ## Targets
@@ -24,9 +24,11 @@ Create a small but extendable project in Java using OOP concepts and prozedures.
 - [~] Abstraction
 - [ ] Interfaces
 - [x] Types
+- [x] Lambda
 - [x] Enumeration
   - [x] Primitive Types
   - [x] Complex Types
+
 - Classes
   - [x] Constructors
   - [x] Setters & Getters
@@ -42,11 +44,13 @@ Create a small but extendable project in Java using OOP concepts and prozedures.
 - [x] Scanner (Terminal input)
 - [ ] StringBuffer
 - [~] File I/O
-- [~] Date
+- [~] LocalDateTime
+- [~] Instant
+
 
 ### Frameworks
-- [~] Logging via java.util.logging.*
-- [~] Testing via "JUnit"
+- [~] Logging via java.util.logging.* | log4j-Package
+- [~] Testing via "JUnit" 
 - [x] Code versioning via GIT
 
 ### Documentation
